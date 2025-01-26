@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm glad you're here. Let me introduce myself:
 About Me
 
 🌟 Name: Udai Nandula
-
 💻 Current Role: RPA Developer
 🐍 Aspiring Role: Python Developer
 🌍 Location: Hyderabad
