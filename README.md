@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**uday51/uday51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm glad you're here. Let me introduce myself:
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Name: Udai Nandula
+
+💻 Current Role: RPA Developer
+🐍 Aspiring Role: Python Developer
+🌍 Location: Hyderabad
+🎯 Goal: Transition into Python development and contribute to impactful projects.
+
+Skills
+
+RPA Skills
+
+Proficient in automation tools like Browser automation studio
+Experience in creating, testing, and maintaining automated workflows.
+Skilled in optimizing processes for efficiency and accuracy.
+
+Python Skills
+
+Familiar with Python basics: data types, control flow, functions, and modules.
+Beginner experience with libraries like pandas, selenium etc
+Currently learning advanced Python concepts, such as OOP and asynchronous programming.
+
+Learning Journey
+
+🌱 Currently improving my Python skills by working on small projects 
+📚 Exploring advanced RPA integrations with Python.
+🎓 Planning to earn certifications in Python development.
+
+How to Reach Me
+
+📫 Email: uday.udai.51@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/udai-nandula/
+
+Feel free to explore my repositories and connect with me
